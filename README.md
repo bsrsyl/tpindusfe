@@ -1,4 +1,4 @@
-Site Vitrine
+Site Vitrinexxxx
 ============
 
 Projet de la formation qui utilise : 
